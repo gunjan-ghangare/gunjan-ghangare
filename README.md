@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Hey ! I am Gunjan <br>🔭 I’m currently working on<br><br>A Financial Planning Web App for my capstone<br><br>Improving my full-stack development skills<br><br>🤝 I’m looking to collaborate on<br><br>Web apps, dashboards, and Python/Java projects<br><br>🆘 I’m looking for help with<br><br>Advanced Git/GitHub<br><br>Backend structuring in Python<br><br>🌱 I’m currently learning<br><br>Full-stack dev, SQL & DBMS<br><br>Linux (RHEL) and Java concepts<br><br>💬 Ask me about<br><br>Web dev, SQL, Linux, Java, college projects<br><br>⚡ Fun fact<br><br>I break things while learning—and fix them even better 😄<br>
+#Hey There I Am Gunjan !
+<br>🔭 I’m currently working on<br><br>A Financial Planning Web App for my capstone<br><br>Improving my full-stack development skills<br><br>🤝 I’m looking to collaborate on<br><br>Web apps, dashboards, and Python/Java projects<br><br>🆘 I’m looking for help with<br><br>Advanced Git/GitHub<br><br>Backend structuring in Python<br><br>🌱 I’m currently learning<br><br>Full-stack dev, SQL & DBMS<br><br>Linux (RHEL) and Java concepts<br><br>💬 Ask me about<br><br>Web dev, SQL, Linux, Java, college projects<br><br>⚡ Fun fact<br><br>I break things while learning—and fix them even better 😄<br>
 
 
 ## 🌐 Socials:
