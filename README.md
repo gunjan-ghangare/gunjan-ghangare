@@ -1,7 +1,5 @@
 ### Hey There I Am Gunjan !
-<br>🔭 I’m currently working on<br><br>A Financial Planning Web App for my capstone<br><br>Improving my full-stack development skills<br><br>🤝 I’m looking to collaborate on<br><br>Web apps, dashboards, and Python/Java projects<br><br>🆘 I’m looking for help with<br><br>Advanced Git/GitHub<br><br>Backend structuring in Python<br><br>🌱 I’m currently learning<br><br>Full-stack dev, SQL & DBMS<br><br>Linux (RHEL) and Java concepts<br><br>💬 Ask me about<br><br>Web dev, SQL, Linux, Java, college projects<br><br>⚡ Fun fact<br><br>I break things while learning—and fix them even better 😄<br>
-
-
+#A passionate Cyber security learner and web develeper 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gunjanghangare_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/i-am-gunjan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gunjanghangare590@gmail.com) 
 
