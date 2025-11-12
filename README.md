@@ -6,9 +6,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-### <p align="center">Hey there 👋 I am <b>Gunjan Ghangare</b></p>
+### <p align="center">Hey there 👋 I am <b>Gunjan </b></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=5000&pause=800&width=600&color=36BCF7&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver;Learning+DevOps+%7C+Cybersecurity+Basics)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=500&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver;Learning+DevOps+%7C+Cybersecurity+Basics)](https://git.io/typing-svg)
+
+</div>
+
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=gunjan-creates&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
