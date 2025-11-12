@@ -35,13 +35,13 @@
   <a href="https://instagram.com/dhanush_nehru" target="_blank">
     <img alt="Instagram @dhanush_nehru" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
   </a> -->
-  <a href="https://hashnode.com/@dhanushnehru" target="_blank">
-    <img alt="Hashnode @dhanushnehru" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
+  <a href="https://hashnode.com/@gunjan-ghangare" target="_blank">
+    <img alt="Hashnode @gunjan-ghangare" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://dev.to/dhanushnehru" target="_blank">
-    <img alt="Dev.to @dhanushnehru" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white&style=for-the-badge" />
+  <a href="https://dev.to/gunjan_ghangare" target="_blank">
+    <img alt="Dev.to Gunjan Ghangare" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/Yn9g6KuWyA" target="_blank">
+  <a href="https://discord.gg/gunjan_1" target="_blank">
     <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </p>
