@@ -142,12 +142,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 😊 Want to Know More About Me?  
-<a href="https://www.google.com/search?q=Gunjan+Ghangare">
-  <table>
-    <tr><td>🙂 &nbsp; Click here to know more about me!</td></tr>
-  </table>
-</a>
+## Want to Know More About Me?  
+[![Know More](https://img.shields.io/badge/Click%20Here%20_%7C_%20Know%20More%20About%20Me-%23FF512F%20%20%E2%86%92%20%23DD2476?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/search?q=Gunjan+Ghangare)
+
+
 
 ---
 
