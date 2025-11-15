@@ -80,8 +80,53 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,git,github,aws,vscode" />
+
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
 </p>
+
 
 
 <p align="center">
