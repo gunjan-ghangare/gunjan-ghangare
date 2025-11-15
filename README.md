@@ -19,32 +19,20 @@
  <img src="https://komarev.com/ghpvc/?username=gunjan-creates&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gunjanghangare/" target="_blank">
-    <img alt="LinkedIn @gunjanghangare" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://codepen.io/gunjanghangare" target="_blank">
-    <img alt="CodePen @gunjanghangare" src="https://img.shields.io/badge/CodePen-000000.svg?logo=codepen&logoColor=white&style=for-the-badge" />
-  </a>
-  <!--   <a href="https://x.com/Dhanush_Nehru" target="_blank">
-    <img alt="X Profile" src="https://img.shields.io/badge/X-1DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/gunjanghangare" target="_blank">
-    <img alt="Instagram @gunjanghangare" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a> -->
-  <a href="https://hashnode.com/@gunjan-ghangare" target="_blank">
-    <img alt="Hashnode @gunjan-ghangare" src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://dev.to/gunjan_ghangare" target="_blank">
-    <img alt="Dev.to Gunjan Ghangare" src="https://img.shields.io/badge/Dev.to-0A0A0A.svg?logo=dev.to&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/gunjan_1" target="_blank">
-    <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjanghangare/)
+[![CodePen](https://img.shields.io/badge/CodePen-111?style=flat&logo=codepen&logoColor=white)](https://codepen.io/gunjanghangare)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@gunjan-ghangare)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gunjan_ghangare)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/gunjan_1)
+
+</div>
+
+
+
+
+
 
 ---
 
