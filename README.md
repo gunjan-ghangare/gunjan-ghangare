@@ -48,10 +48,11 @@
 
 ---
 
-## 🚀 About Me
-
+## 🚀 About Me.   
+              
+                           <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 - 🔭 Currently working on:  
-  ✅ Java Projects  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+  ✅ Java Projects  
   ✅ Python Scripts  
   ✅ Web Development  
   ✅ Database Systems  
