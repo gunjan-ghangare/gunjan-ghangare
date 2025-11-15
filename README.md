@@ -71,10 +71,18 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 🧰 Tech Stack  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" width="350px" align="right">  
+## 🧰 Tech Stack  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
+       width="350px" 
+       alt="Tech Illustration">
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,git,github,aws,vscode" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
