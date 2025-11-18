@@ -125,7 +125,7 @@
 # 🚀 Featured Projects  
 
 ###  **. Java OOP Concept Programs**
-✔ Classes, objects, inheritance, polymorphism & exception handling  
+  Classes, objects, inheritance, polymorphism & exception handling  
 🔗 Repo: *(https://gunjan-creates.github.io/Java/)*
 
 ###  **. An Library And Learning Management System**
