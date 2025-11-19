@@ -1,17 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d1117&text=Gunjan%20Ghangare&fontColor=3ba7ff&fontSize=45&fontAlignY=35" />
+  <img src="https://github.com/gunjan-creates/Costom-Svg/blob/main/gunjan_snake.svg" width="700" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-<p align="center">
-  <img src="github logo.png" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution grid snake animation" />
-  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution grid snake animation" />
 </p>
 
 
