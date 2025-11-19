@@ -9,6 +9,11 @@
   <img src="github logo.png" width="300" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub contribution grid snake animation" />
+</p>
+
 
 
 ### <p align="center">Hey there 👋 I am <b>Gunjan </b></p>
