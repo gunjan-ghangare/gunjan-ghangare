@@ -143,7 +143,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunjan-creates&theme=matrix&no-frame=true&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=gunjan-creates&theme=matrix&no-frame=true&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
