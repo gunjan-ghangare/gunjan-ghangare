@@ -5,6 +5,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<p align="center">
+  <img src="github logo.png" width="220" alt="GitHub logo" />
+</p>
+
 
 
 ### <p align="center">Hey there 👋 I am <b>Gunjan </b></p>
@@ -147,10 +151,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="github logo.png" width="120" alt="GitHub logo" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
