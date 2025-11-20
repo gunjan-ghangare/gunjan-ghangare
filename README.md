@@ -143,10 +143,15 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunjan-creates&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gunjan-creates&theme=matrix&no-frame=true&margin-w=10#gh-dark-mode-only" alt="GitHub trophies dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gunjan-creates&theme=flat&no-frame=true&margin-w=10#gh-light-mode-only" alt="GitHub trophies light" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="github logo.png" width="120" alt="GitHub logo" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
