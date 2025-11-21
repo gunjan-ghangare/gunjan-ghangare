@@ -2,7 +2,7 @@
   <img src="https://github.com/gunjan-creates/Costom-Svg/blob/main/gunjan_snake.svg" width="700" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=gunjan-creates&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 ## 🧰 Tech Stack  
@@ -124,7 +124,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 # 🚀 Featured Projects  
@@ -141,7 +141,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
 ## 🏆 GitHub Trophies  
@@ -153,29 +153,38 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 </p>
 
-## 📊 GitHub Stats  
 
+
+## 📊 GitHub Stats:
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gunjan-creates&show_icons=true&theme=github_dark&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-creates&layout=compact&theme=github_dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-creates&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-creates&theme=tokyonight&hide_border=false" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-creates&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+  <br/><br/>
+
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-creates&theme=tokyonight" alt="profile details"/>
+
+  <br/><br/>
+
+  <!-- GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
 
 ## 🔥 Activity Graph  
 ![Gunjan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjan-creates&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
