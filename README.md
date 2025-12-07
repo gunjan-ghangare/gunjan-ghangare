@@ -186,8 +186,6 @@
 
 </div>
 
-## 🔥 Activity Graph  
-![Gunjan's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjan-creates&bg_color=0d1117&color=58a6ff&line=3ba55d&point=f7786b&area=true&hide_border=true)
 
 ---
 
