@@ -1,205 +1,139 @@
-<p align="center">
-  <img src="https://github.com/gunjan-creates/Costom-Svg/blob/main/gunjan_snake.svg" width="700" />
-</p>
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</p>
-
-<p align="center">
-  <img src="3d_cartoon_avatar_of_a_man_minimal_3d_character_avatar_for_profile___Premium_AI-generated_image-removebg-preview.png" width="220" alt="GitHub logo" />
-</p>
-
-
-
-### <p align="center">Hey there 👋 I am <b>Gunjan </b></p>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=500&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver;Learning+DevOps+%7C+Cybersecurity+Basics)](https://git.io/typing-svg)
-
+  <img src="https://github.com/gunjan-creates/Costom-Svg/blob/main/gunjan_snake.svg" width="100%" />
 </div>
 
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
 <div align="center">
+  <img src="3d_cartoon_avatar_of_a_man_minimal_3d_character_avatar_for_profile___Premium_AI-generated_image-removebg-preview.png" width="180" alt="Avatar" />
+  
+  <h1 align="center">Hey there 👋 I am Gunjan</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjanghangare/)
-[![CodePen](https://img.shields.io/badge/CodePen-111?style=flat&logo=codepen&logoColor=white)](https://codepen.io/gunjanghangare)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@gunjan-ghangare)
-[![Dev.to](https://img.shields.io/badge/Dev.to-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gunjan_ghangare)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/gunjan_1)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=100%&height=70&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 
+  <div align="center">
+    <a href="https://www.linkedin.com/in/gunjanghangare/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://codepen.io/gunjanghangare" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+    <a href="https://hashnode.com/@gunjan-ghangare" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+    <a href="https://dev.to/gunjan_ghangare" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+    <a href="https://discord.gg/gunjan_1" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  </div>
 </div>
 
-
-
-
-
-
----
-
-## 🚀 About Me.   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
-- 🔭 Currently working on:
- 
-  ✅ Python Scripts  
-  ✅ Web Development  
-  ✅ Database Systems  
-  ✅ Cloud & DevOps  
-  ✅ Cybersecurity Basics
-  ✅ Java Projects  
-
-- 💬 Ask me about: **Python**, **Web Development**, **Java**
-
-- 🎮 Hobbies:  
-  Coding • Traveling • Reading • Gaming • Chess
-
-- ⚡ Fun Fact:  
-  *I don't rage quit — I debug later.*
-
----
-
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-## 🧰 Tech Stack  
+## 🚀 About Me
 
+<h2>🚀 About Me</h2>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br>
+      🔭 <b>Currently working on:</b>
+      <ul>
+        <li>Python Scripts & Automation</li>
+        <li>Full Stack Web Development</li>
+        <li>Database Management Systems</li>
+        <li>Cloud Computing & DevOps</li>
+        <li>Cybersecurity Fundamentals</li>
+      </ul>
+      <br>
+      💬 <b>Ask me about:</b> <br>
+      <code>Python</code> <code>Web Dev</code> <code>Java</code>
+      <br><br>
+      ⚡ <b>Fun Fact:</b> <i>I don't rage quit — I debug later.</i>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://gifdb.com/images/high/programming-jim-carrey-aggressive-typing-wmu5az6tp699cfg9.gif" width="85%" style="max-width: 200px; border-radius: 10px;" alt="Aggressive Typing GIF" />
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" 
-       width="350px" 
-       alt="Tech Illustration">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<p align="center">
-
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" />
-  </a>
-
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" />
-  </a>
-
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-
-</p>
-
-
+## 🖥️ Top Languages
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  <i></i>
 </p>
 
-# 🚀 Featured Projects  
-
-###  **. Java OOP Concept Programs**
-  Classes, objects, inheritance, polymorphism & exception handling  
-🔗 Repo: *(https://gunjan-creates.github.io/Java/)*
-
-###  **. An Library And Learning Management System**
-🔗 Repo: *(https://gunjan-creates.github.io/CAMPUS-SHELF/)*
-
----
-
-
-
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</p>
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=gunjan-ghangare&theme=matrix&no-frame=true&margin-w=10" alt="GitHub trophies" />
-</p>
-
----
-
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-</p>
-
-
-
-## 📊 GitHub Stats:
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&theme=github_dark&hide_border=true" />
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangre&theme=tokyonight&hide_border=false" />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-  <br/><br/>
-
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-ghangare&theme=tokyonight" alt="profile details"/>
-
-  <br/><br/>
-
-  <!-- GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" width="100%" style="max-width: 600px;" alt="Top Languages" />
 </div>
 
+## 🧰 Tech Stack
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Languages & Tools</h3>
+        <p>
+          <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+          <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+          <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+          <br><br>
+          <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
+          <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+          <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+          <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
+          <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="250px" alt="Tech Illustration">
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | View |
+| :--- | :--- | :---: |
+| **Java OOP** | Classes, Objects, Inheritance, Polymorphism. | [🔗](https://gunjan-creates.github.io/Java/) |
+| **Campus Shelf** | Library & Learning Management System. | [🔗](https://gunjan-creates.github.io/CAMPUS-SHELF/) |
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=gunjan-ghangare&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="100%" style="max-width: 800px;" alt="Trophies" />
+  <br><br>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangare&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+  </p>
+  
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-ghangare&theme=tokyonight" width="100%" style="max-width: 800px;" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## Want to Know More About Me?  
-[![Know More](https://img.shields.io/badge/Click%20Here%20_%7C_%20Know%20More%20About%20Me-%23FF512F%20%20%E2%86%92%20%23DD2476?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/search?q=Gunjan+Ghangare)
-
-
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <a href="https://www.google.com/search?q=Gunjan+Ghangare">
+    <img src="https://img.shields.io/badge/Click%20Here%20_%7C_%20Know%20More%20About%20Me-%23FF512F%20%20%E2%86%92%20%23DD2476?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=60"/>
 </div>
