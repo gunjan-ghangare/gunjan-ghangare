@@ -147,7 +147,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=gunjan-creates&theme=matrix&no-frame=true&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=gunjan-ghangare&theme=matrix&no-frame=true&margin-w=10" alt="GitHub trophies" />
 </p>
 
 ---
@@ -162,22 +162,22 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-creates&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&theme=github_dark&hide_border=true" />
 
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-creates&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjan-ghangre&theme=tokyonight&hide_border=false" />
 
   <br/><br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-creates&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
   <br/><br/>
 
   <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-creates&theme=tokyonight" alt="profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjan-ghangare&theme=tokyonight" alt="profile details"/>
 
   <br/><br/>
 
