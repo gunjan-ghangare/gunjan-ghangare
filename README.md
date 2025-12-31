@@ -60,12 +60,13 @@
 ## 🖥️ Top Languages
 
 <p align="center">
-  <i></i>
+  <i>
+    <a href="https://gunjan-ghangare.github.io/GitHub-Lang-Detector/?user=gunjan-ghangare">
+      <img src="https://img.shields.io/badge/View%20My-Top%20Languages-blue?style=for-the-badge&logo=github" alt="My Top Languages">
+    </a>
+  </i>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjan-ghangare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" width="100%" style="max-width: 600px;" alt="Top Languages" />
-</div>
 
 ## 🧰 Tech Stack
 
