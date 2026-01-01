@@ -12,7 +12,7 @@
   <h1 align="center">Hey there 👋 I am Gunjan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=500%&height=70&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&repeat=true&width=500%&height=70&lines=Google+Student+Ambassador;GSSoC+Tech+Contributor;Techfest+IIT+Bombay+Campus+Ambassador;B.Tech+Student+At+RTMSSU+NAGPUR;Aspiring+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Cloud;Tech+Explorer+%26+Problem+Solver" alt="Typing SVG" />
   </a>
 
   <div align="center">
