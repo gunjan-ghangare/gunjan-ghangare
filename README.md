@@ -104,7 +104,7 @@
 | Project | Description | View |
 | :--- | :--- | :---: |
 | **Java OOP** | Classes, Objects, Inheritance, Polymorphism. | [🔗](https://gunjan-creates.github.io/Java/) |
-| **Campus Shelf** | Library & Learning Management System. | [🔗](https://gunjan-creates.github.io/CAMPUS-SHELF/) |
+| **Campus Shelf** | Library & Learning Management System. | [🔗](https://gunjan-ghangare.github.io/CAMPUS-SHELF/) |
 |**Github-Top-Language-Detector** | Detects Top Language used by the user of given github profile. |[🔗](https://gunjan-ghangare.github.io/GitHub-Lang-Detector/)|
 
 <p align="center">
