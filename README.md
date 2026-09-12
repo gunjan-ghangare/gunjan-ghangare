@@ -11,7 +11,7 @@
 I turn ideas into clean, useful, and reliable digital experiences. I enjoy working across the product surface: shaping interfaces, building APIs, connecting systems, and polishing the details that make software feel effortless.
 
 <a href="https://github.com/gunjan-ghangare"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/gunjan-ghangare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/gunjanghangare/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -82,7 +82,7 @@ I explore new tools, contribute to projects, and turn what I learn into practica
 
 ## Let's connect
 
-The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/gunjan-ghangare/). I am always interested in thoughtful products, collaborative teams, and projects with room to make a real difference.
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/gunjanghangare/). I am always interested in thoughtful products, collaborative teams, and projects with room to make a real difference.
 
 <div align="center">
 
