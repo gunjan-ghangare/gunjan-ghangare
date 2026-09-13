@@ -1,261 +1,165 @@
 <div align="center">
 
-### `< Developer • Bug Hunter • Builder • Learner />`
+# `gunjan@github:~$`
+
+<sub>Developer · Bug Hunter · Builder · Learner</sub>
 
 </div>
 
-<table>
-<tr>
+```console
+┌──(gunjan㉿github)-[~/profile]
+└─$ █
 
-<td width="35%" valign="top">
+  Welcome to interactive profile terminal.
+  Type /help to get started.
+```
 
-<img src="https://github.com/gunjan-ghangare.png" width="180" />
+## `$ /help`
 
-<br><br>
+```console
+┌──(gunjan㉿github)-[~/profile]
+└─$ /help
 
-<pre>
-┌──────────────────────────┐
-│       PLATFORMS          │
-├──────────────────────────┤
-│ • Windows                │
-│ • Linux                  │
-│ • Android                │
-│ • GitHub                 │
-│ • VS Code                │
-└──────────────────────────┘
-</pre>
+Available commands:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=windows,linux,android,github,vscode&perline=5"/>
-</p>
+  /personal     View personal information
+  /education    View education
+  /skills       View technical skills
+  /projects     View featured projects
+  /experience   View community experience
+  /contact      View social links
+  /all          Print the complete profile
 
-<pre>
-┌──────────────────────────┐
-│       LANGUAGES          │
-├──────────────────────────┤
-│ • C / C++                │
-│ • Python                 │
-│ • Java                   │
-│ • JavaScript             │
-│ • HTML / CSS             │
-│ • SQL                    │
-└──────────────────────────┘
-</pre>
+Tip: Click a command below to run it.
+```
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,mysql&perline=4"/>
-</p>
+<details>
+<summary><code>└─$ /personal</code></summary>
 
-<pre>
-┌──────────────────────────┐
-│      TECHNOLOGIES        │
-├──────────────────────────┤
-│ • Git                    │
-│ • GitHub                 │
-│ • Docker                 │
-│ • Linux                  │
-│ • Cloud                  │
-│ • APIs                   │
-└──────────────────────────┘
-</pre>
+```json
+{
+  "name": "Gunjan Ghangare",
+  "role": ["Developer", "Bug Hunter", "Problem Solver"],
+  "location": "Maharashtra, India",
+  "github": "https://github.com/gunjan-ghangare",
+  "linkedin": "https://linkedin.com/in/gunjanghangare",
+  "interests": ["Software Development", "Cyber Security", "Bug Hunting", "Open Source", "Cloud Computing", "AI / ML"]
+}
+```
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,firebase&perline=3"/>
-</p>
+</details>
 
-</td>
+<details>
+<summary><code>└─$ /education</code></summary>
 
-<td width="65%" valign="top">
+```json
+{
+  "degree": "B.Tech in Information Technology",
+  "institution": "Ratan Tata Maharashtra State Skills University",
+  "duration": "2024 - 2028",
+  "focus": ["Computer Science", "Software Development", "Cybersecurity", "Cloud Computing", "Artificial Intelligence"]
+}
+```
 
-### `$ cat PERSONAL_INFO`
+</details>
 
-<pre>
-┌──[gunjan@github]─[~/profile]
-└─$ cat PERSONAL_INFO
+<details>
+<summary><code>└─$ /skills</code></summary>
 
-class Developer {
+```json
+{
+  "languages": ["C", "C++", "Python", "Java", "JavaScript", "HTML", "CSS", "SQL"],
+  "tools": ["Git", "GitHub", "Docker", "Linux", "VS Code"],
+  "platforms": ["Windows", "Linux", "Android", "GitHub"],
+  "technologies": ["Cloud", "APIs", "Firebase", "MySQL"],
+  "skill_levels": {
+    "programming": "90%",
+    "git_and_github": "85%",
+    "cybersecurity": "80%",
+    "linux": "80%",
+    "web_development": "80%",
+    "cloud": "70%"
+  }
+}
+```
 
-public:
+</details>
 
-    string NAME       = "Gunjan Ghangare";
+<details>
+<summary><code>└─$ /projects</code></summary>
 
-    string ROLE       =
-        "Developer • Bug Hunter";
+```json
+[
+  {
+    "name": "JavaSecurityAnalyzer",
+    "description": "Security analysis desktop application",
+    "features": ["Weak-password detection", "Open-port and vulnerability detection", "AES/RSA file encryption", "Risk scoring system"],
+    "technologies": ["Java", "Cybersecurity"]
+  },
+  {
+    "name": "CAMPUS-SHELF",
+    "description": "Library and learning management system",
+    "features": ["Educational environment", "Modern web interface"],
+    "technologies": ["JavaScript", "Web Development"]
+  },
+  {
+    "name": "Language Detector",
+    "description": "GitHub programming-language analysis tool",
+    "features": ["Language statistics generation"],
+    "technologies": ["Python", "GitHub API"]
+  }
+]
+```
 
-    string LOCATION   =
-        "Maharashtra, India";
+</details>
 
-    string EDUCATION  =
-        "B.Tech Information Technology";
+<details>
+<summary><code>└─$ /experience</code></summary>
 
-    string GITHUB     =
-        "github.com/gunjan-ghangare";
+```json
+[
+  { "role": "Technical Lead", "organization": "AWS Student Builder Group @ RTMSSU" },
+  { "role": "Assistant Organiser", "organization": "AWS Student Builder Group @ RTMSSU" },
+  { "role": "Co-Organiser", "organization": "IBM User Group Nagpur" },
+  { "role": "Volunteer", "organization": "Robin Hood Army" }
+]
+```
 
-    string LINKEDIN   =
-        "linkedin.com/in/gunjanghangare";
+</details>
 
-    vector&lt;string&gt; INTERESTS = {
-        "Software Development",
-        "Cyber Security",
-        "Bug Hunting",
-        "Open Source",
-        "Cloud Computing",
-        "AI / ML"
-    };
+<details>
+<summary><code>└─$ /contact</code></summary>
 
-};
-</pre>
+```json
+{
+  "github": "https://github.com/gunjan-ghangare",
+  "linkedin": "https://linkedin.com/in/gunjanghangare",
+  "status": "open_to_connect"
+}
+```
 
-### `$ whoami`
+</details>
 
-<pre>
-┌──[gunjan@github]─[~/profile]
-└─$ whoami
+<details>
+<summary><code>└─$ /all</code></summary>
 
-[✓] Developer
-[✓] Bug Hunter
-[✓] Problem Solver
-[✓] Open Source Enthusiast
-[✓] Constantly Learning
+```json
+{
+  "message": "Run /personal, /education, /skills, /projects, /experience, or /contact for a readable response.",
+  "status": "profile_loaded"
+}
+```
 
-&gt; Current mission:
-
-Build useful things.
-Find bugs.
-Break things responsibly.
-Fix things.
-Learn something new every day.
-</pre>
-
-### `$ skills --list`
-
-<pre>
-Programming
-████████████████████░░ 90%
-
-Git &amp; GitHub
-██████████████████░░░░ 85%
-
-Cybersecurity
-████████████████░░░░░░ 80%
-
-Linux
-████████████████░░░░░░ 80%
-
-Cloud
-██████████████░░░░░░░░ 70%
-
-Web Development
-████████████████░░░░░░ 80%
-</pre>
-
-### `$ projects`
-
-<pre>
-┌──────────────────────────────────────────────┐
-│ PROJECT 01                                   │
-│ JavaSecurityAnalyzer                         │
-│                                              │
-│ &gt; Security analysis desktop application   │
-│ &gt; Weak password detection                 │
-│ &gt; Open-port &amp; vulnerability detection │
-│ &gt; AES / RSA file encryption               │
-│ &gt; Risk scoring system                     │
-│                                              │
-│ Technologies: Java • Cybersecurity           │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ PROJECT 02                                   │
-│ CAMPUS-SHELF                                 │
-│                                              │
-│ &gt; Library &amp; learning management system│
-│ &gt; Educational environment                 │
-│ &gt; Modern web interface                    │
-│                                              │
-│ Technologies: JavaScript • Web               │ 
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ PROJECT 03                                   │
-│ Language Detector                            │
-│                                              │
-│ &gt; GitHub programming language analysis    │
-│ &gt; Language statistics generation          │
-│                                              │
-│ Technologies: Python • GitHub API            │
-└──────────────────────────────────────────────┘
-</pre>
-
-### `$ education`
-
-<pre>
-┌──[gunjan@github]─[~/education]
-└─$ cat education.txt
-
-[2024 - 2028]
-
-B.Tech — Information Technology
-
-Ratan Tata Maharashtra State Skills University
-
-Focus:
-
-• Computer Science
-• Software Development
-• Cybersecurity
-• Cloud Computing
-• Artificial Intelligence
-</pre>
-
-### `$ experience`
-
-<pre>
-┌──[gunjan@github]─[~/experience]
-└─$ cat experience.txt
-
-01. Technical Lead
-    AWS Student Builder Group @ RTMSSU
-
-02. Assistant Organiser
-    AWS Student Builder Group @ RTMSSU
-
-03. Co-Organiser
-    IBM User Group Nagpur
-
-04. Volunteer
-    Robin Hood Army
-</pre>
-
-### `$ connect`
-
-<pre>
-┌──[gunjan@github]─[~/social]
-└─$ ./connect.sh
-
-GitHub    → github.com/gunjan-ghangare
-LinkedIn  → linkedin.com/in/gunjanghangare
-
-[✓] Connection established.
-</pre>
-
-</td>
-
-</tr>
-</table>
+</details>
 
 ---
 
 <div align="center">
 
-<pre>
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       "BE THE CHANGE YOU WANT TO SEE."       ║
-║                                              ║
-║                 — Nims Dai                   ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-</pre>
+```console
+┌──(gunjan㉿github)-[~/profile]
+└─$ echo "Build useful things. Break things responsibly. Learn every day."
+Build useful things. Break things responsibly. Learn every day.
+```
 
 </div>
