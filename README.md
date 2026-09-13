@@ -1,27 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Gunjan+Ghangare;Developer+%C2%B7+Bug+Hunter+%C2%B7+Builder" alt="Gunjan Ghangare — Developer, Bug Hunter, Builder" />
-
-<br />
-
-<a href="https://github.com/gunjan-ghangare"><img src="https://img.shields.io/badge/GitHub-gunjan--ghangare-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/gunjanghangare"><img src="https://img.shields.io/badge/LinkedIn-gunjanghangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=gunjan-ghangare&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Gunjan's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=gunjan-ghangare&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Gunjan's contribution streak" />
-</div>
-
----
-
 <table>
 <tr>
 
@@ -84,12 +60,9 @@
 
 <td width="65%" valign="top">
 
-### `01. $ cat PERSONAL_INFO`
+### Personal Information
 
 <pre>
-┌──[gunjan@github]─[~/profile]
-└─$ cat PERSONAL_INFO
-
 class Developer {
 
 public:
@@ -106,10 +79,10 @@ public:
         "B.Tech Information Technology";
 
     string GITHUB     =
-        "github.com/gunjan-ghangare";
+        "<a href="https://github.com/gunjan-ghangare">github.com/gunjan-ghangare</a>";
 
     string LINKEDIN   =
-        "linkedin.com/in/gunjanghangare";
+        "<a href="https://www.linkedin.com/in/gunjanghangare">linkedin.com/in/gunjanghangare</a>";
 
     vector&lt;string&gt; INTERESTS = {
         "Software Development",
@@ -123,12 +96,9 @@ public:
 };
 </pre>
 
-### `02. $ whoami`
+### About Me
 
 <pre>
-┌──[gunjan@github]─[~/profile]
-└─$ whoami
-
 [✓] Developer
 [✓] Bug Hunter
 [✓] Problem Solver
@@ -144,7 +114,7 @@ Fix things.
 Learn something new every day.
 </pre>
 
-### `03. $ skills --list`
+### Skills
 
 <pre>
 Programming
@@ -166,7 +136,7 @@ Web Development
 ████████████████░░░░░░ 80%
 </pre>
 
-### `04. $ projects`
+### Projects
 
 <pre>
 ┌──────────────────────────────────────────────┐
@@ -204,12 +174,9 @@ Web Development
 └──────────────────────────────────────────────┘
 </pre>
 
-### `05. $ education`
+### Education
 
 <pre>
-┌──[gunjan@github]─[~/education]
-└─$ cat education.txt
-
 [2024 - 2028]
 
 B.Tech — Information Technology
@@ -225,12 +192,9 @@ Focus:
 • Artificial Intelligence
 </pre>
 
-### `06. $ experience`
+### Experience
 
 <pre>
-┌──[gunjan@github]─[~/experience]
-└─$ cat experience.txt
-
 01. Technical Lead
     AWS Student Builder Group @ RTMSSU
 
@@ -244,14 +208,11 @@ Focus:
     Robin Hood Army
 </pre>
 
-### `07. $ connect`
+### Connect
 
 <pre>
-┌──[gunjan@github]─[~/social]
-└─$ ./connect.sh
-
-GitHub    → github.com/gunjan-ghangare
-LinkedIn  → linkedin.com/in/gunjanghangare
+GitHub    → <a href="https://github.com/gunjan-ghangare">github.com/gunjan-ghangare</a>
+LinkedIn  → <a href="https://www.linkedin.com/in/gunjanghangare">linkedin.com/in/gunjanghangare</a>
 
 [✓] Connection established.
 </pre>
