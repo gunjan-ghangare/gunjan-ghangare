@@ -60,12 +60,9 @@
 
 <td width="65%" valign="top">
 
-### `$ cat PERSONAL_INFO`
+### Personal Information
 
 <pre>
-┌──[gunjan@github]─[~/profile]
-└─$ cat PERSONAL_INFO
-
 class Developer {
 
 public:
@@ -99,12 +96,9 @@ public:
 };
 </pre>
 
-### `$ whoami`
+### About Me
 
 <pre>
-┌──[gunjan@github]─[~/profile]
-└─$ whoami
-
 [✓] Developer
 [✓] Bug Hunter
 [✓] Problem Solver
@@ -120,7 +114,7 @@ Fix things.
 Learn something new every day.
 </pre>
 
-### `$ skills --list`
+### Skills
 
 <pre>
 Programming
@@ -142,7 +136,7 @@ Web Development
 ████████████████░░░░░░ 80%
 </pre>
 
-### `$ projects`
+### Projects
 
 <pre>
 ┌──────────────────────────────────────────────┐
@@ -180,12 +174,9 @@ Web Development
 └──────────────────────────────────────────────┘
 </pre>
 
-### `$ education`
+### Education
 
 <pre>
-┌──[gunjan@github]─[~/education]
-└─$ cat education.txt
-
 [2024 - 2028]
 
 B.Tech — Information Technology
@@ -201,12 +192,9 @@ Focus:
 • Artificial Intelligence
 </pre>
 
-### `$ experience`
+### Experience
 
 <pre>
-┌──[gunjan@github]─[~/experience]
-└─$ cat experience.txt
-
 01. Technical Lead
     AWS Student Builder Group @ RTMSSU
 
@@ -220,12 +208,9 @@ Focus:
     Robin Hood Army
 </pre>
 
-### `$ connect`
+### Connect
 
 <pre>
-┌──[gunjan@github]─[~/social]
-└─$ ./connect.sh
-
 GitHub    → github.com/gunjan-ghangare
 LinkedIn  → linkedin.com/in/gunjanghangare
 
