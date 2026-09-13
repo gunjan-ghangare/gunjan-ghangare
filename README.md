@@ -1,11 +1,12 @@
-<table>
-<tr>
-
-<td width="35%" valign="top">
+<div align="center">
 
 <img src="https://github.com/gunjan-ghangare.png" width="180" />
 
+</div>
+
 <br><br>
+
+## Workspace
 
 <pre>
 ┌──────────────────────────┐
@@ -56,9 +57,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,firebase&perline=3"/>
 </p>
 
-</td>
-
-<td width="65%" valign="top">
+---
 
 ### Personal Information
 
@@ -216,11 +215,6 @@ LinkedIn  → <a href="https://www.linkedin.com/in/gunjanghangare">linkedin.com/
 
 [✓] Connection established.
 </pre>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
