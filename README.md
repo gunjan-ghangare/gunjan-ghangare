@@ -1,27 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Gunjan+Ghangare;Developer+%C2%B7+Bug+Hunter+%C2%B7+Builder" alt="Gunjan Ghangare — Developer, Bug Hunter, Builder" />
-
-<br />
-
-<a href="https://github.com/gunjan-ghangare"><img src="https://img.shields.io/badge/GitHub-gunjan--ghangare-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/gunjanghangare"><img src="https://img.shields.io/badge/LinkedIn-gunjanghangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=gunjan-ghangare&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile views" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gunjan-ghangare&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Gunjan's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=gunjan-ghangare&hide_border=true&background=0D1117&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Gunjan's contribution streak" />
-</div>
-
----
-
 <table>
 <tr>
 
@@ -84,7 +60,7 @@
 
 <td width="65%" valign="top">
 
-### `01. $ cat PERSONAL_INFO`
+### `$ cat PERSONAL_INFO`
 
 <pre>
 ┌──[gunjan@github]─[~/profile]
@@ -123,7 +99,7 @@ public:
 };
 </pre>
 
-### `02. $ whoami`
+### `$ whoami`
 
 <pre>
 ┌──[gunjan@github]─[~/profile]
@@ -144,7 +120,7 @@ Fix things.
 Learn something new every day.
 </pre>
 
-### `03. $ skills --list`
+### `$ skills --list`
 
 <pre>
 Programming
@@ -166,7 +142,7 @@ Web Development
 ████████████████░░░░░░ 80%
 </pre>
 
-### `04. $ projects`
+### `$ projects`
 
 <pre>
 ┌──────────────────────────────────────────────┐
@@ -204,7 +180,7 @@ Web Development
 └──────────────────────────────────────────────┘
 </pre>
 
-### `05. $ education`
+### `$ education`
 
 <pre>
 ┌──[gunjan@github]─[~/education]
@@ -225,7 +201,7 @@ Focus:
 • Artificial Intelligence
 </pre>
 
-### `06. $ experience`
+### `$ experience`
 
 <pre>
 ┌──[gunjan@github]─[~/experience]
@@ -244,7 +220,7 @@ Focus:
     Robin Hood Army
 </pre>
 
-### `07. $ connect`
+### `$ connect`
 
 <pre>
 ┌──[gunjan@github]─[~/social]
