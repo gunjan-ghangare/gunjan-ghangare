@@ -56,6 +56,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,firebase&perline=3"/>
 </p>
 
+
 </td>
 
 <td width="65%" valign="top">
