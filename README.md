@@ -79,10 +79,10 @@ public:
         "B.Tech Information Technology";
 
     string GITHUB     =
-        "github.com/gunjan-ghangare";
+        "<a href="https://github.com/gunjan-ghangare">github.com/gunjan-ghangare</a>";
 
     string LINKEDIN   =
-        "linkedin.com/in/gunjanghangare";
+        "<a href="https://www.linkedin.com/in/gunjanghangare">linkedin.com/in/gunjanghangare</a>";
 
     vector&lt;string&gt; INTERESTS = {
         "Software Development",
@@ -211,8 +211,8 @@ Focus:
 ### Connect
 
 <pre>
-GitHub    → github.com/gunjan-ghangare
-LinkedIn  → linkedin.com/in/gunjanghangare
+GitHub    → <a href="https://github.com/gunjan-ghangare">github.com/gunjan-ghangare</a>
+LinkedIn  → <a href="https://www.linkedin.com/in/gunjanghangare">linkedin.com/in/gunjanghangare</a>
 
 [✓] Connection established.
 </pre>
