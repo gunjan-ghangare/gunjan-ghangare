@@ -205,8 +205,8 @@ Focus:
 03. Co-Organiser
     IBM User Group Nagpur
 
-04. Volunteer
-    Robin Hood Army
+04. Organiser
+    OpenSearch User Group Mumbai 
 </pre>
 
 ### Connect
